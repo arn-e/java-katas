@@ -1,3 +1,8 @@
 ## Java Katas
 
 Sandbox for a few scripts I'm writing as I get familiar with Java
+
+* Fibonacci
+* RPN Calculator
+* Simple web-app (using Spark)
+
