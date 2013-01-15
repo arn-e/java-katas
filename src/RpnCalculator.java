@@ -4,18 +4,17 @@ public class RpnCalculator {
         String[] splitInput = input.split(" ");
         int[] values = new int[splitInput.length];
         int idx = 0;
-        for ( int i = 0; i < splitInput.length; i ++ ) {
-            if ( splitInput[i].equals("+") || splitInput[i].equals("-") || splitInput[i].equals("*")) {
-                int res = updateTotal(values, splitInput[i], idx);
+        for ( String rpnValue : splitInput ) {
+            if ( rpnValue.equals("+") || rpnValue.equals("-") || rpnValue.equals("*")) {
+                int res = updateTotal(values, rpnValue, idx);
                 values = new int[splitInput.length];
                 values[0] = res;
             } else {
-                values[idx] = Integer.parseInt(splitInput[i]);
+                values[idx] = Integer.parseInt(rpnValue);
                 idx ++;
             }
         }
-        int result = values[0];
-        return result;
+        return values[0];
     }
 
     private int updateTotal(int[] input, String method, int idx) {
@@ -31,6 +30,7 @@ public class RpnCalculator {
         }
         return result;
     }
+
     private int product(int[] input, int idx) {
         int product = input[0];
         for (int i = 1; i < idx; i ++ ){
