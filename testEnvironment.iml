@@ -25,6 +25,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="temp_jar_files" level="project" />
   </component>
 </module>
 

@@ -12,6 +12,7 @@
     <file path="/FibonacciTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358204232912" ignored="false" />
     <file path="/RpnCalculator.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358213136974" ignored="false" />
     <file path="/RpnCalculatorTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358209261315" ignored="false" />
+    <file path="/WebTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358215257237" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,17 +76,28 @@
           <file leaf-file-name="Fibonacci.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Fibonacci.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="20" column="0" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0">
+                <state line="17" column="4" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="RpnCalculator.java" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="RpnCalculator.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/RpnCalculator.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="6" column="5" selection-start="196" selection-end="196" vertical-scroll-proportion="0.15929204">
+                <state line="18" column="0" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0">
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="WebTest.java" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/WebTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="12" column="1" selection-start="308" selection-end="308" vertical-scroll-proportion="0.31141868">
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -134,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/FibonacciTest.java" />
         <option value="$PROJECT_DIR$/src/RpnCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/RpnCalculator.java" />
+        <option value="$PROJECT_DIR$/src/WebTest.java" />
       </list>
     </option>
   </component>
@@ -228,6 +241,7 @@
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/code/java/temp_jar_files" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -247,23 +261,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RpnCalculatorTest">
-    <configuration default="false" name="IceCream" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="IceCream" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="testEnvironment" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.WebTest">
     <configuration default="false" name="Fibonacci" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <option name="VM_PARAMETERS" />
@@ -326,6 +324,22 @@
     </configuration>
     <configuration default="false" name="RpnCalculator" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="RpnCalculator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="testEnvironment" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WebTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="WebTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -429,19 +443,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.IceCream" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Fibonacci" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FibonacciTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RpnCalculatorTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RpnCalculator" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Fibonacci" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FibonacciTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.RpnCalculatorTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RpnCalculator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.WebTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.RpnCalculatorTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RpnCalculator" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FibonacciTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Fibonacci" />
-        <item index="4" class="java.lang.String" itemvalue="Application.IceCream" />
+        <item index="0" class="java.lang.String" itemvalue="Application.WebTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RpnCalculatorTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RpnCalculator" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FibonacciTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -494,7 +508,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12840746" sideWeight="0.75561094" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24438903" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24438903" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -622,16 +636,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FibonacciTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
+        <state line="17" column="4" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/FibonacciTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -647,8 +661,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RpnCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="5" selection-start="196" selection-end="196" vertical-scroll-proportion="0.15929204">
+        <state line="18" column="0" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WebTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="308" selection-end="308" vertical-scroll-proportion="0.31141868">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -727,6 +750,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>temp_jar_files</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
