@@ -11,7 +11,7 @@
     <file path="/fragment.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358205862523" ignored="false" />
     <file path="/FibonacciTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358204232912" ignored="false" />
     <file path="/RpnCalculator.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358208632536" ignored="false" />
-    <file path="/RpnCalculatorTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358208213923" ignored="false" />
+    <file path="/RpnCalculatorTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358209261315" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,10 +81,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="RpnCalculator.java" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="RpnCalculator.java" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/RpnCalculator.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="24" selection-start="922" selection-end="922" vertical-scroll-proportion="0.6637168">
+                <state line="33" column="52" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.5840708">
                   <folding />
                 </state>
               </provider>
@@ -94,10 +94,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="RpnCalculatorTest.java" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="RpnCalculatorTest.java" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/RpnCalculatorTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                <state line="39" column="0" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.53287196">
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -134,8 +134,8 @@
         <option value="$PROJECT_DIR$/src/IceCream.java" />
         <option value="$PROJECT_DIR$/src/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/FibonacciTest.java" />
-        <option value="$PROJECT_DIR$/src/RpnCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/RpnCalculator.java" />
+        <option value="$PROJECT_DIR$/src/RpnCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -580,19 +580,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RpnCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/RpnCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="33" column="52" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.5840708">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RpnCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/RpnCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="24" selection-start="922" selection-end="922" vertical-scroll-proportion="0.6637168">
-          <folding />
+        <state line="39" column="0" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.53287196">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

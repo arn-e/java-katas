@@ -11,6 +11,7 @@ public class RpnCalculatorTest {
         int result = rpn.calculate(input);
 
         Assert.assertEquals(result, expectedResult);
+        Assert.assertEquals(rpn.calculate("2 3 1 +"), 6);
     }
 
     @Test
@@ -33,6 +34,18 @@ public class RpnCalculatorTest {
         int result = rpn.calculate(input);
 
         Assert.assertEquals(result, expectedResult);
+    }
+
+    @Test
+    public void testCalculateCombinations() throws Exception {
+        String input = "3 4 2 + 2 1 -";
+        int expectedResult = 6;
+
+        RpnCalculator rpn = new RpnCalculator();
+        int result = rpn.calculate(input);
+
+        Assert.assertEquals(result, expectedResult);
+
     }
 
 }
