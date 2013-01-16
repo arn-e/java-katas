@@ -13,8 +13,9 @@
     <file path="/RpnCalculator.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358219104222" ignored="false" />
     <file path="/RpnCalculatorTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358209261315" ignored="false" />
     <file path="/WebTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358276537122" ignored="false" />
-    <file path="/index.html" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358276726064" ignored="false" />
-    <file path="/FileReaderTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358221459905" ignored="false" />
+    <file path="/index.html" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358297966239" ignored="false" />
+    <file path="/FileReaderTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358284121377" ignored="false" />
+    <file path="/TemplateTest.java" changelist="343b7ea8-23b2-46ba-aa78-18adce3bf12d" time="1358316971197" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,29 +73,91 @@
     <favorites_list name="testEnvironment" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="WebTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/WebTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="705" selection-end="705" vertical-scroll-proportion="0.57093424">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#527#535#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="11" selection-start="231" selection-end="231" vertical-scroll-proportion="-3.75">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="FibonacciTest.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/FibonacciTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="5" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RpnCalculator.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/RpnCalculator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="15" column="9" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RpnCalculatorTest.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/RpnCalculatorTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="17" column="34" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/public/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="30" selection-start="184" selection-end="184" vertical-scroll-proportion="0.12345679">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="WebTest.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/WebTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="0" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#527#535#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TemplateTest.java" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/TemplateTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="8" column="8" selection-start="196" selection-end="196" vertical-scroll-proportion="0.23529412">
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#304#312#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FileReaderTest.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/FileReaderTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="9" column="44" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -109,14 +172,18 @@
         <option value="$PROJECT_DIR$/src/fibonacci.java" />
         <option value="$PROJECT_DIR$/src/IceCream.java" />
         <option value="$PROJECT_DIR$/src/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/FibonacciTest.java" />
         <option value="$PROJECT_DIR$/src/RpnCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/RpnCalculator.java" />
+        <option value="$PROJECT_DIR$/src/FibonacciTest.java" />
+        <option value="$PROJECT_DIR$/src/WebTest.java" />
         <option value="$PROJECT_DIR$/src/FileReaderTest.java" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/WebTest.java" />
+        <option value="$PROJECT_DIR$/src/TemplateTest.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1440" />
@@ -156,6 +223,24 @@
               <option name="myItemId" value="testEnvironment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testEnvironment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="junit-4.10.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -164,6 +249,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="testEnvironment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testEnvironment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testEnvironment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -215,23 +314,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WebTest">
-    <configuration default="false" name="Fibonacci" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="testEnvironment" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.FileReaderTest">
     <configuration default="false" name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="testEnvironment" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -294,6 +377,22 @@
     </configuration>
     <configuration default="false" name="WebTest" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="WebTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="testEnvironment" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FileReaderTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FileReaderTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -397,19 +496,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Fibonacci" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FibonacciTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RpnCalculatorTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RpnCalculator" />
-      <item index="4" class="java.lang.String" itemvalue="Application.WebTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.FibonacciTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.RpnCalculatorTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RpnCalculator" />
+      <item index="3" class="java.lang.String" itemvalue="Application.WebTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FileReaderTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.WebTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RpnCalculatorTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RpnCalculator" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FibonacciTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Fibonacci" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FileReaderTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.WebTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RpnCalculatorTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RpnCalculator" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FibonacciTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -452,18 +551,18 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.75561094" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.75561094" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12840746" sideWeight="0.75561094" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24438903" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12840746" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24438903" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -530,13 +629,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RpnCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -556,7 +648,9 @@
     <entry file="file://$PROJECT_DIR$/src/FibonacciTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -586,20 +680,6 @@
     <entry file="file://$PROJECT_DIR$/src/FibonacciTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FibonacciTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.051903114">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RpnCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -620,35 +700,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RpnCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/RpnCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="9" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="72" selection-start="175" selection-end="243" vertical-scroll-proportion="0.0">
+        <state line="17" column="34" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FibonacciTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="5" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RpnCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="9" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="231" selection-end="231" vertical-scroll-proportion="-3.75">
+        <state line="4" column="30" selection-start="184" selection-end="184" vertical-scroll-proportion="0.12345679">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="44" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WebTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="705" selection-end="705" vertical-scroll-proportion="0.57093424">
+        <state line="14" column="0" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#527#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="8" selection-start="196" selection-end="196" vertical-scroll-proportion="0.23529412">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#304#312#0" expanded="true" />
           </folding>
         </state>
       </provider>
